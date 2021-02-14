@@ -180,5 +180,5 @@ const enableLoader = () => {
     loader.style.width = "128px";
     loader.style.height = "128px";
 
-    //return loader;
+    return loader;
 };
